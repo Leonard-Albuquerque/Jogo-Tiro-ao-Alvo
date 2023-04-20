@@ -1,4 +1,4 @@
-# Jogo-Tiro-ao-Alvo em JS
+# Jogo-Tiro-ao-Alvo com HTML + JS 
 
 Preparando para Executor o projeto : 
 Instale qualquer Browser ( Preferencialmente GOOGLE CHROME )
